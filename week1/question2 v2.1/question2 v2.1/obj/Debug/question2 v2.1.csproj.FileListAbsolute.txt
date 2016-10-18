@@ -1,0 +1,6 @@
+C:\Users\shakeel\Documents\SharpDevelop Projects\week1\question2 v2.1\question2 v2.1\bin\Debug\question2 v2.1.exe.config
+C:\Users\shakeel\Documents\SharpDevelop Projects\week1\question2 v2.1\question2 v2.1\bin\Debug\question2 v2.1.exe
+C:\Users\shakeel\Documents\SharpDevelop Projects\week1\question2 v2.1\question2 v2.1\bin\Debug\question2 v2.1.pdb
+C:\Users\shakeel\Documents\SharpDevelop Projects\week1\question2 v2.1\question2 v2.1\obj\Debug\question2 v2.1.csprojResolveAssemblyReference.cache
+C:\Users\shakeel\Documents\SharpDevelop Projects\week1\question2 v2.1\question2 v2.1\obj\Debug\question2 v2.1.exe
+C:\Users\shakeel\Documents\SharpDevelop Projects\week1\question2 v2.1\question2 v2.1\obj\Debug\question2 v2.1.pdb
