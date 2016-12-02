@@ -1,0 +1,6 @@
+C:\Users\shakeel\Documents\SharpDevelop Projects\subSequence\subSequence\obj\Debug\subSequence.csprojResolveAssemblyReference.cache
+C:\Users\shakeel\Documents\SharpDevelop Projects\subSequence\subSequence\bin\Debug\subSequence.exe.config
+C:\Users\shakeel\Documents\SharpDevelop Projects\subSequence\subSequence\bin\Debug\subSequence.exe
+C:\Users\shakeel\Documents\SharpDevelop Projects\subSequence\subSequence\bin\Debug\subSequence.pdb
+C:\Users\shakeel\Documents\SharpDevelop Projects\subSequence\subSequence\obj\Debug\subSequence.exe
+C:\Users\shakeel\Documents\SharpDevelop Projects\subSequence\subSequence\obj\Debug\subSequence.pdb

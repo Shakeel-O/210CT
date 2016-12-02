@@ -1,0 +1,8 @@
+ISPRIME(TEST, NUMBER):
+	if number == 0 OR number == 1:
+		RETURN "this cannot be a prime number"
+	if test == number:
+		RETURN "this is a prime number"
+	if number modulos test == 0:
+		RETURN	"this is not a prime"
+	RETURN ISPRIME(TEST+1, NUMBER)

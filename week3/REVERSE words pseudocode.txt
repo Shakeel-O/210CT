@@ -1,0 +1,6 @@
+REVERSE(WORDS, COUNT, OUTPUT):
+	if count = 0:
+		output <- output + words[count]
+		RETURN output
+	output <- output + words[count]
+	RETURN REVERSE(WORDS, COUNT -1, OUTPUT)

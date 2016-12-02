@@ -1,0 +1,13 @@
+BINARY_SEARCH(L, LOW, HIGH)
+	first <- 0
+	last <- length[L]
+	WHILE last > first
+		mid <- first + (last - first)/2
+		IF L[mid] <= high and L[mid] >= low 
+			RETURN TRUE
+		ELSE IF L[mid] < low
+			first <- mid + 1
+		ELSE
+			last <- mid - 1
+	RETURN FALSE
+BINARY_SEARCH([2,3,5,7,9,13], 10, 14)

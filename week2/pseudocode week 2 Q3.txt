@@ -1,0 +1,41 @@
+ADDITION(B,C)
+n <- INPUT MATRIX order // order of n
+for i<-1 to n
+	for j <-1 to n
+		result[i,j] <- C[i,j] + B[i,j]
+return result
+	BigO is O(n^2)
+
+SUBRACTION(B,C)
+n <- INPUT MATRIX order // order of n
+for i<-1 to n
+	for j <-1 to n
+		result[i,j] <- C[i,j] - B[i,j]
+return result
+	BigO is O(n^2)
+
+MATRIXSCALER(B,NUM)
+n <- INPUT MATRIX order // order of n
+for i<-1 to n
+	for j <-1 to n
+		result[i,j] <- B[i,j]* num
+return result
+	BigO is O(n^2)
+		
+MULTIPLICATIONMATRIX(A, B)
+for i<-1 to n							
+	for j<-1 to n						
+		RESULT[i,j]<- 0					
+for i<-1 to n									
+	for j<-1 to n								
+		for h<-1 to n							
+			RESULT[i,j]<- RESULT[i,j]+A[i,h]*B[h,j]	
+return RESULT										
+	BigO is O(n^3)	
+
+A  <- B*C - 2*(B+C)
+A1 <- MULTIPLICATIONMATRIX(B,C)
+A2 <- ADDITION(B,C)
+A3 <- MATRIXSCALER(A2,2)
+A  <- SUBRACTION(A1,A3)
+BigO is O(n^3)

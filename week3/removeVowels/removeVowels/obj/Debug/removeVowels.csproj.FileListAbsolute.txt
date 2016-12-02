@@ -1,0 +1,12 @@
+C:\Users\shakeel\Documents\SharpDevelop Projects\removeVowels\removeVowels\obj\Debug\removeVowels.csprojResolveAssemblyReference.cache
+C:\Users\shakeel\Documents\SharpDevelop Projects\removeVowels\removeVowels\bin\Debug\removeVowels.exe.config
+C:\Users\shakeel\Documents\SharpDevelop Projects\removeVowels\removeVowels\bin\Debug\removeVowels.exe
+C:\Users\shakeel\Documents\SharpDevelop Projects\removeVowels\removeVowels\bin\Debug\removeVowels.pdb
+C:\Users\shakeel\Documents\SharpDevelop Projects\removeVowels\removeVowels\obj\Debug\removeVowels.exe
+C:\Users\shakeel\Documents\SharpDevelop Projects\removeVowels\removeVowels\obj\Debug\removeVowels.pdb
+C:\Users\shakeel\Documents\SharpDevelop Projects\week3\removeVowels\removeVowels\bin\Debug\removeVowels.exe.config
+C:\Users\shakeel\Documents\SharpDevelop Projects\week3\removeVowels\removeVowels\bin\Debug\removeVowels.exe
+C:\Users\shakeel\Documents\SharpDevelop Projects\week3\removeVowels\removeVowels\bin\Debug\removeVowels.pdb
+C:\Users\shakeel\Documents\SharpDevelop Projects\week3\removeVowels\removeVowels\obj\Debug\removeVowels.csprojResolveAssemblyReference.cache
+C:\Users\shakeel\Documents\SharpDevelop Projects\week3\removeVowels\removeVowels\obj\Debug\removeVowels.exe
+C:\Users\shakeel\Documents\SharpDevelop Projects\week3\removeVowels\removeVowels\obj\Debug\removeVowels.pdb

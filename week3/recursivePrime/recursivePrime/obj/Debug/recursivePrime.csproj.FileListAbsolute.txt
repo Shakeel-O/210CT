@@ -1,0 +1,12 @@
+C:\Users\shakeel\Documents\SharpDevelop Projects\recursivePrime\recursivePrime\obj\Debug\recursivePrime.csprojResolveAssemblyReference.cache
+C:\Users\shakeel\Documents\SharpDevelop Projects\recursivePrime\recursivePrime\bin\Debug\recursivePrime.exe.config
+C:\Users\shakeel\Documents\SharpDevelop Projects\recursivePrime\recursivePrime\bin\Debug\recursivePrime.exe
+C:\Users\shakeel\Documents\SharpDevelop Projects\recursivePrime\recursivePrime\bin\Debug\recursivePrime.pdb
+C:\Users\shakeel\Documents\SharpDevelop Projects\recursivePrime\recursivePrime\obj\Debug\recursivePrime.exe
+C:\Users\shakeel\Documents\SharpDevelop Projects\recursivePrime\recursivePrime\obj\Debug\recursivePrime.pdb
+C:\Users\shakeel\Documents\SharpDevelop Projects\week3\recursivePrime\recursivePrime\bin\Debug\recursivePrime.exe.config
+C:\Users\shakeel\Documents\SharpDevelop Projects\week3\recursivePrime\recursivePrime\bin\Debug\recursivePrime.exe
+C:\Users\shakeel\Documents\SharpDevelop Projects\week3\recursivePrime\recursivePrime\bin\Debug\recursivePrime.pdb
+C:\Users\shakeel\Documents\SharpDevelop Projects\week3\recursivePrime\recursivePrime\obj\Debug\recursivePrime.csprojResolveAssemblyReference.cache
+C:\Users\shakeel\Documents\SharpDevelop Projects\week3\recursivePrime\recursivePrime\obj\Debug\recursivePrime.exe
+C:\Users\shakeel\Documents\SharpDevelop Projects\week3\recursivePrime\recursivePrime\obj\Debug\recursivePrime.pdb

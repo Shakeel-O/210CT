@@ -1,0 +1,7 @@
+REMOVE(WORD)
+	vowels = {'a','e','i','o','u','A','E','I','O','U'}
+	if (index of WORD == -1):
+		return word;
+	else:
+		word = word.Remove(word.IndexOfAny(vowels),1);
+	return (remove(word));

@@ -1,0 +1,12 @@
+C:\Users\shakeel\Documents\SharpDevelop Projects\perfectSquare\perfectSquare\bin\Debug\perfectSquare.exe.config
+C:\Users\shakeel\Documents\SharpDevelop Projects\perfectSquare\perfectSquare\bin\Debug\perfectSquare.exe
+C:\Users\shakeel\Documents\SharpDevelop Projects\perfectSquare\perfectSquare\bin\Debug\perfectSquare.pdb
+C:\Users\shakeel\Documents\SharpDevelop Projects\perfectSquare\perfectSquare\obj\Debug\perfectSquare.csprojResolveAssemblyReference.cache
+C:\Users\shakeel\Documents\SharpDevelop Projects\perfectSquare\perfectSquare\obj\Debug\perfectSquare.exe
+C:\Users\shakeel\Documents\SharpDevelop Projects\perfectSquare\perfectSquare\obj\Debug\perfectSquare.pdb
+C:\Users\shakeel\Documents\SharpDevelop Projects\week2\perfectSquare\perfectSquare\obj\Debug\perfectSquare.csprojResolveAssemblyReference.cache
+C:\Users\shakeel\Documents\SharpDevelop Projects\week2\perfectSquare\perfectSquare\obj\Debug\perfectSquare.exe
+C:\Users\shakeel\Documents\SharpDevelop Projects\week2\perfectSquare\perfectSquare\bin\Debug\perfectSquare.exe.config
+C:\Users\shakeel\Documents\SharpDevelop Projects\week2\perfectSquare\perfectSquare\bin\Debug\perfectSquare.exe
+C:\Users\shakeel\Documents\SharpDevelop Projects\week2\perfectSquare\perfectSquare\bin\Debug\perfectSquare.pdb
+C:\Users\shakeel\Documents\SharpDevelop Projects\week2\perfectSquare\perfectSquare\obj\Debug\perfectSquare.pdb
